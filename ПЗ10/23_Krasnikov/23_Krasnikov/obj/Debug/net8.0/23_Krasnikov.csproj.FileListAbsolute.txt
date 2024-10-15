@@ -1,0 +1,14 @@
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\bin\Debug\net8.0\23_Krasnikov.exe
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\bin\Debug\net8.0\23_Krasnikov.deps.json
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\bin\Debug\net8.0\23_Krasnikov.runtimeconfig.json
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\bin\Debug\net8.0\23_Krasnikov.dll
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\bin\Debug\net8.0\23_Krasnikov.pdb
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\obj\Debug\net8.0\23_Krasnikov.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\obj\Debug\net8.0\23_Krasnikov.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\obj\Debug\net8.0\23_Krasnikov.AssemblyInfo.cs
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\obj\Debug\net8.0\23_Krasnikov.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\obj\Debug\net8.0\23_Krasnikov.dll
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\obj\Debug\net8.0\refint\23_Krasnikov.dll
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\obj\Debug\net8.0\23_Krasnikov.pdb
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\obj\Debug\net8.0\23_Krasnikov.genruntimeconfig.cache
+C:\Users\Admin\Desktop\ПЗ10\23_Krasnikov\23_Krasnikov\obj\Debug\net8.0\ref\23_Krasnikov.dll
