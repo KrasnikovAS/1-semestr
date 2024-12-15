@@ -1,0 +1,14 @@
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\bin\Debug\net8.0\IS23_F2.exe
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\bin\Debug\net8.0\IS23_F2.deps.json
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\bin\Debug\net8.0\IS23_F2.runtimeconfig.json
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\bin\Debug\net8.0\IS23_F2.dll
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\bin\Debug\net8.0\IS23_F2.pdb
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\obj\Debug\net8.0\IS23_F2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\obj\Debug\net8.0\IS23_F2.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\obj\Debug\net8.0\IS23_F2.AssemblyInfo.cs
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\obj\Debug\net8.0\IS23_F2.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\obj\Debug\net8.0\IS23_F2.dll
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\obj\Debug\net8.0\refint\IS23_F2.dll
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\obj\Debug\net8.0\IS23_F2.pdb
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\obj\Debug\net8.0\IS23_F2.genruntimeconfig.cache
+C:\Users\Admin\source\repos\ПЗ5\IS23_F2\obj\Debug\net8.0\ref\IS23_F2.dll
